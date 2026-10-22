@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="welcome_this_is_the_second_activity_page">Welcome....This is the second Activity Page</string>
+    <string name="welcome_this_is_the_second_page" />
+    <string name="welcome_to_the_second_activity">Welcome to the Second Activity</string>
+</resources>
